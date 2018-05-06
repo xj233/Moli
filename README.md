@@ -13,9 +13,11 @@
 -
 在PHP5的主机上（大多数虚拟空间提供的环境），可以无数据库实现查看日历，添加待办事项等强大功能，界面美观简洁，易于PHP新手学习。
 
-程序截图
+程序截图/演示
 -
-![Moli](https://www.feking.org/img/github/Screenshot_moli.png)
+![Moli](https://www.feking.org/img/sl_webpr/Screenshot_Moli.jpg)
+
+官方演示站：[https://www.feking.org](https://www.feking.org)
 
 更新日志
 -
