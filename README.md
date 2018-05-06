@@ -17,7 +17,7 @@
 -
 ![Moli](https://www.feking.org/img/sl_webpr/Screenshot_Moli.jpg)
 
-官方演示站：[https://www.feking.org](https://www.feking.org)
+官方演示站：[https://moli.feking.org](https://moli.feking.org)
 
 更新日志
 -
