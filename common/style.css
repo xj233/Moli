@@ -1,8 +1,7 @@
-html, input {
-  font-family: "Microsoft YaHei"!important;
-}
 body {
-  background-color: #F7F7F7;
+  line-height: 1.6;
+  margin: 20px;
+  background-color: #f3f3f3;
 }
 a {
   color: #333;
@@ -36,8 +35,4 @@ a {
   border-radius: 6px;
   width: 100%;
   display: inline-block;
-}
-
-.bg{
-background-image:url('http://bizhi.chainwon.com/api/bizhi.png');
 }
