@@ -7,7 +7,7 @@
 
 背景
 -
-继使用bootstrap框架作为前端的吐槽集能器开发后，魔粒开始使用MDUI框架，更加适合国人审美。
+继使用bootstrap框架作为前端的吐槽集能器（现在也换成了MDUI）开发后，魔粒开始使用MDUI框架，更加适合国人审美。
 
 主要功能
 -
@@ -15,6 +15,8 @@
 
 程序演示
 -
+![MoliIMG](https://www.ioig.net/img/app/moli.jpg "魔法日历首页")
+
 官方演示站：[https://moli.ioig.net](https://moli.ioig.net)
 
 更新日志
