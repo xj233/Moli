@@ -1,4 +1,4 @@
-# Moli-魔粒![Moli](https://www.ioig.net/img/logo/calendar_128px_1185199_easyicon.net.png)
+# Moli-魔粒![Moli](https://www.feking.cc/img/logo/calendar_128px_1185199_easyicon.net.png)
 
 
 概述
@@ -13,11 +13,9 @@
 -
 在PHP5的主机上（大多数虚拟空间提供的环境），可以无数据库实现查看日历，添加待办事项等强大功能，界面美观简洁，易于PHP新手学习。
 
-程序演示
+程序展示
 -
-![MoliIMG](https://www.ioig.net/img/app/moli.jpg "魔法日历首页")
-
-官方演示站：[https://moli.ioig.net](https://moli.ioig.net)
+![MoliIMG](https://www.feking.cc/img/app/moli.jpg "魔法日历首页")
 
 更新日志
 -
